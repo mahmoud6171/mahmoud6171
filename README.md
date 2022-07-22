@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mahmoud Saeed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning;Data+Science;Deep+Learning;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -8,9 +8,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mahmoud6171&label=Profile%20views&color=0e75b6&style=plastic" alt="mahmoud6171" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="mahmoud6171" target="_blank"/> 
-	</a>
+	
 </p>
 
 
