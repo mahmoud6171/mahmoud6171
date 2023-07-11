@@ -46,33 +46,6 @@
 
 
 
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mahmoud6171's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoud6171&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud6171&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mahmoud6171" height="192px"/>
-  <br/>
-  
-  </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/mahmoud6171"><img alt="mahmoud6171's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoud6171&custom_title=mahmoud6171's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-
-
 
 
 -----
