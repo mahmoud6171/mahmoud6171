@@ -13,7 +13,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` at Faculty of Computers Science at Ain Shams University
+- :school: I am a `Fresh Grad` graduated from the Faculty of Computers Science at Ain Shams University
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science`, `Data Science` and `Machine Learning`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1K6zzfXbuxwLoFBAS0n4Z8-Zj2n6DLqEb/view?usp=share_link).
