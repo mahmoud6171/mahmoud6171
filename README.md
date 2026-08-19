@@ -235,15 +235,11 @@ Kubernetes
 🚀 Production
 ```
 
-## 📊 GitHub Statistics
-
-<p align="center">   <a href="https://github.com/mahmoud6171">     <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahmoud6171&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />   </a>   <a href="https://github.com/mahmoud6171">     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud6171&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />   </a> </p>
-
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity & Statistics
 
-<p align="center">   <a href="https://github.com/mahmoud6171">     <img src="https://streak-stats.demolab.com?user=mahmoud6171&theme=tokyonight&hide_border=true" />   </a> </p>
+<p align="center">   <img     src="https://metrics.lecoq.io/mahmoud6171?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Africa%2FCairo&config.display=large&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=bytes-size%2Cpercentage&plugin_languages_limit=8&plugin_achievements=1&plugin_achievements_display=compact"     alt="Mahmoud Saeed's GitHub Metrics"     width="100%"   /> </p>
 
 ---
 
@@ -253,15 +249,7 @@ Kubernetes
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud6171&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud6171&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
