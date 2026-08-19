@@ -1,158 +1,93 @@
+<div align="center">
+
 # 👋 Hi, I'm Mahmoud Saeed
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%F0%9F%92%BB;Django+%26+FastAPI+Specialist+%F0%9F%90%8D;React+Developer+%E2%9A%9B;Backend+%26+API+Development+%F0%9F%9A%80;Docker+%26+Kubernetes+%F0%9F%90%B3;CI%2FCD+%26+DevOps+Enthusiast+%E2%9A%99%EF%B8%8F;Machine+Learning+%26+Data+Science+Enthusiast+%F0%9F%A4%96" />
+### 🐍 Full-Stack Developer · Backend Engineer · Python Enthusiast
+
+<p>
+  <a href="https://github.com/mahmoud6171">
+    <img src="https://img.shields.io/github/followers/mahmoud6171?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="mailto:mahmoud.said5456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-saeed-0971aa222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoud6171&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Django+%7C+Django+REST+Framework+%7C+FastAPI;React+%7C+REST+APIs+%7C+PostgreSQL;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+Scalable+%26+Production-Ready+Systems;Machine+Learning+%26+Data+Science+Enthusiast" />
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Mahmoud Saeed**, a Computer Science graduate from **Ain Shams University** and a **Full-Stack Developer** focused on building scalable, production-ready web applications and APIs.
+I'm **Mahmoud Saeed**, a Computer Science graduate from **Ain Shams University** and a **Full-Stack Developer** specializing in Python-based backend development.
 
-My main specialization is **Python backend development**, particularly with **Django** and **FastAPI**, combined with **React** for modern frontend applications.
+My main focus is building **scalable, maintainable, and production-ready applications** using **Django and FastAPI**, with **React** on the frontend.
 
-I'm also interested in **DevOps, CI/CD, containerization, cloud-native technologies, Machine Learning, and Data Science**.
+I also have a strong interest in **DevOps and cloud-native development**, working with **Docker, Kubernetes, and CI/CD** to automate development and deployment workflows.
 
 ```python
 class MahmoudSaeed:
 
-    def __init__(self):
-        self.name = "Mahmoud Saeed"
-        self.role = "Full-Stack Developer"
-        self.backend = ["Django", "Django REST Framework", "FastAPI"]
-        self.frontend = ["React", "JavaScript", "HTML", "CSS"]
-        self.devops = ["Docker", "Kubernetes", "CI/CD"]
-        self.interests = [
-            "Software Architecture",
-            "Machine Learning",
-            "Data Science"
-        ]
+    role = "Full-Stack Developer"
+
+    specialization = {
+        "backend": ["Django", "Django REST Framework", "FastAPI"],
+        "frontend": ["React", "JavaScript"],
+        "database": ["PostgreSQL", "MySQL", "Redis"],
+        "devops": ["Docker", "Kubernetes", "CI/CD"],
+        "other": ["Machine Learning", "Data Science"]
+    }
+
+    philosophy = "Build it. Automate it. Scale it."
 
     def current_focus(self):
         return [
-            "Building scalable APIs",
-            "Developing full-stack applications",
-            "Improving system architecture",
-            "Automation & CI/CD",
-            "Cloud-native technologies"
+            "Scalable backend systems",
+            "High-performance APIs",
+            "Clean architecture",
+            "Containerized applications",
+            "CI/CD & deployment automation"
         ]
 ```
 
-### 🚀 What I Do
-
-* 🐍 Build **backend systems and REST APIs** with Django & FastAPI
-* 🌐 Develop modern **full-stack applications** with Django + React
-* ⚡ Design high-performance APIs using **FastAPI**
-* 🔐 Build authentication, authorization, and secure APIs
-* 🗄️ Work with relational databases and backend architecture
-* 🐳 Containerize applications using **Docker**
-* ☸️ Work with **Kubernetes** and container orchestration
-* 🔄 Build and maintain **CI/CD pipelines**
-* 🧠 Explore **Machine Learning & Data Science**
-* 📚 Continuously learn and improve my engineering skills
-
-📄 **[Check out my Resume](https://drive.google.com/file/d/1K6zzfXbuxwLoFBAS0n4Z8-Zj2n6DLqEb/view?usp=share_link)**
-
 ---
 
-## 🛠️ Tech Stack
-
-### 🐍 Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
-</p>
-
-**Specialized in:**
-
-`Django` · `Django REST Framework` · `FastAPI` · `REST APIs` · `API Design` · `Authentication` · `Backend Architecture`
-
----
-
-### ⚛️ Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
-
-`React` · `JavaScript` · `HTML5` · `CSS3`
-
----
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-</p>
-
-`PostgreSQL` · `MySQL` · `SQLite` · `Redis`
-
----
-
-### 🐳 DevOps & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx" />
-</p>
-
-`Docker` · `Kubernetes` · `CI/CD` · `GitHub Actions` · `Linux` · `Nginx`
-
----
-
-### 🔧 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Postman`
-
----
-
-### 🤖 AI & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-`Machine Learning` · `Data Science` · `Deep Learning` · `NumPy` · `Pandas` · `Scikit-Learn`
-
----
-
-## 🏗️ Development Focus
+## ⚡ What I Specialize In
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 Backend
+### 🐍 Backend Development
 
-* Django
-* Django REST Framework
-* FastAPI
-* RESTful APIs
-* Authentication & Authorization
-* API Architecture
-* Database Design
-* Scalable Backend Systems
+* **Django**
+* **Django REST Framework**
+* **FastAPI**
+* RESTful API design
+* Authentication & authorization
+* API architecture
+* Database design
+* Async programming
+* Scalable backend systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚛️ Frontend
+### ⚛️ Full-Stack Development
 
-* React
+* **React**
 * JavaScript
-* Responsive Interfaces
-* API Integration
-* Component-Based Architecture
-* Modern Web Applications
+* REST API integration
+* Component-based architecture
+* Responsive web applications
+* Frontend ↔ Backend integration
+* Modern web application architecture
 
 </td>
 </tr>
@@ -160,16 +95,16 @@ class MahmoudSaeed:
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ DevOps
+### ☁️ DevOps & Infrastructure
 
-* Docker
-* Kubernetes
-* CI/CD
+* **Docker**
+* **Kubernetes**
+* **CI/CD**
 * GitHub Actions
 * Linux
 * Nginx
 * Containerization
-* Deployment Automation
+* Deployment automation
 
 </td>
 
@@ -190,74 +125,217 @@ class MahmoudSaeed:
 
 ---
 
-## 🔥 Currently Focused On
+# 🛠️ Technology Stack
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🐍 Django & Django REST Framework                   │
-│  ⚡ FastAPI & High-Performance APIs                  │
-│  ⚛️ React & Full-Stack Development                   │
-│  🐳 Docker & Containerization                        │
-│  ☸️ Kubernetes & Container Orchestration             │
-│  🔄 CI/CD & Deployment Automation                    │
-│  🏗️ Scalable Software Architecture                  │
-│  🤖 Machine Learning & Data Science                  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+### 👨‍💻 Languages
 
----
-
-## 💡 My Development Philosophy
-
-> **Build it. Automate it. Scale it. Improve it.**
-
-I enjoy taking an idea from a simple concept to a complete application — from designing the backend and APIs, to building the frontend, containerizing the application, and automating its deployment.
-
-```text
-Idea
-  ↓
-Architecture
-  ↓
-Django / FastAPI
-  ↓
-REST API
-  ↓
-React
-  ↓
-Docker
-  ↓
-CI/CD
-  ↓
-Kubernetes
-  ↓
-🚀 Production
-```
-
----
- 
-### 📊 GitHub Stats
- 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahmoud6171&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud6171&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=mahmoud6171&theme=tokyonight&hide_border=true" />
-</div>
----
-
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud6171&theme=tokyo-night&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash,sql" />
 </p>
 
+### 🐍 Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
 
-## 🌐 Connect With Me
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+</p>
+
+### 🐳 DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+---
+
+# 🏗️ How I Build
+
+```text
+                    💡 Idea
+                      │
+                      ▼
+               🏗️ Architecture
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+      🐍 Backend               ⚛️ Frontend
+   Django / FastAPI              React
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+                🔌 REST API
+                      │
+                      ▼
+               🗄️ PostgreSQL
+                      │
+                      ▼
+                 🐳 Docker
+                      │
+                      ▼
+                 🔄 CI/CD
+                      │
+                      ▼
+               ☸️ Kubernetes
+                      │
+                      ▼
+                  🚀 Deploy
+```
+
+> **I don't just build applications — I care about how they are deployed, maintained, and scaled.**
+
+---
+
+# 🚀 Featured Projects
+
+> Replace the placeholders below with your best repositories.
+> Your **top 3–4 projects should demonstrate your actual skills**, not just coursework.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 Django / REST API
+
+**Production-oriented backend application**
+
+`Django` `DRF` `PostgreSQL` `Docker`
+
+🔹 Authentication & authorization
+🔹 RESTful API
+🔹 Database architecture
+🔹 Dockerized deployment
+
+[🔗 View Project](https://github.com/mahmoud6171)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ FastAPI Service
+
+**High-performance API / microservice**
+
+`FastAPI` `Python` `PostgreSQL` `Docker`
+
+🔹 Async API endpoints
+🔹 OpenAPI documentation
+🔹 Clean architecture
+🔹 Containerized application
+
+[🔗 View Project](https://github.com/mahmoud6171)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚛️ Full-Stack Application
+
+**Modern React + Python application**
+
+`React` `Django/FastAPI` `PostgreSQL`
+
+🔹 Modern frontend
+🔹 REST API integration
+🔹 Authentication
+🔹 Responsive UI
+
+[🔗 View Project](https://github.com/mahmoud6171)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☸️ DevOps Project
+
+**Containerized production environment**
+
+`Docker` `Kubernetes` `CI/CD`
+
+🔹 Container orchestration
+🔹 Automated deployment
+🔹 CI/CD pipeline
+🔹 Production-ready infrastructure
+
+[🔗 View Project](https://github.com/mahmoud6171)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🟢 Building scalable Django applications
+🟢 Developing high-performance FastAPI services
+🟢 Building full-stack applications with React
+🟢 Improving software architecture & design
+🟢 Dockerizing production applications
+🟢 Learning more about Kubernetes
+🟢 Improving CI/CD & DevOps workflows
+🟢 Exploring Machine Learning & Data Science
+```
+
+---
+
+# 📚 Currently Learning
+
+| Area                      | Focus                                |
+| ------------------------- | ------------------------------------ |
+| 🏗️ Software Architecture | Scalable & maintainable systems      |
+| 🐍 Backend                | Advanced Django & FastAPI            |
+| ☸️ DevOps                 | Kubernetes & container orchestration |
+| 🔄 CI/CD                  | Automated testing & deployment       |
+| ⚡ APIs                    | High-performance & async systems     |
+| 🤖 AI                     | Machine Learning & Deep Learning     |
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/mahmoud6171?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Africa%2FCairo&config.display=large&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=bytes-size%2Cpercentage&plugin_languages_limit=8&plugin_achievements=1&plugin_achievements_display=compact"
+    alt="Mahmoud Saeed's GitHub Metrics"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -277,10 +355,6 @@ Kubernetes
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100003954919430">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
 <a href="https://www.instagram.com/mahmoud_saeed01/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -289,14 +363,20 @@ Kubernetes
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
+### 💼 Open to Opportunities
 
-<p align="center">
-  <i>Build • Learn • Automate • Scale 🚀</i>
-</p>
+**Full-Time · Internship · Freelance · Collaboration**
+
+📄 [View My Resume](https://drive.google.com/file/d/1K6zzfXbuxwLoFBAS0n4Z8-Zj2n6DLqEb/view?usp=share_link)
+
+<br>
+
+> *"Build it. Automate it. Scale it."* 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+
+</div>
